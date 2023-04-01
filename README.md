@@ -1,1 +1,1 @@
-# python_goodcode_snippet
+josn字符串系列 和 数组list 互相转换  [json_to_list.ipynbs](https://github.com/montychen/python_goodcode_snippet/blob/main/json_to_list.ipynb)
